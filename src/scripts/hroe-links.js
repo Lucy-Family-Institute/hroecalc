@@ -15,11 +15,6 @@ export default [
         link: "https://www.youtube.com/watch?v=38QwFDEfrEI"
     },
     {
-        source: "Harvard Business School",
-        title: "AI Ethics for Enterprise AI",
-        link: "https://economics.harvard.edu/files/economics/files/rossi-francesca_4-22-19_ai-ethics-for-enterprise-ai_ec3118-hbs.pdf"
-    },
-    {
         source: "EQUALS Global Partnership",
         title: "Computer scientist Francesca Rossi on artificial intelligence, 2018",
         link: "https://www.equalsintech.org/post/2018/05/17/computer-scientist-francesca-rossi-on-artificial-intelligence-trustworthiness-is-key-gend"
