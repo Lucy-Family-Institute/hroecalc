@@ -149,7 +149,7 @@ export default {
                 <h2>Explanation of Results</h2>
                 <div class="enlargefont" style="--fontsize:18px;">
                     Your company plans to initially invest <span class="varvalue">\${I_t} million</span> in AI ethics and governance to potentially
-                    avoid <span class="varvalue">\${fineAvoidanceValue} million</span> in fines over <span class="varvalue">{N}</span>, which has a present value of <span class="varvalue">\${discountedValue} million</span> when discounted at a <span class="varvalue">{alpha}%</span> cost of capital.  
+                    avoid <span class="varvalue">\${fineAvoidanceValue} million</span> in fines over <span class="varvalue">{N}</span>. These fines have a present value of <span class="varvalue">\${discountedValue} million</span> when discounted at a <span class="varvalue">{alpha}%</span> cost of capital.  
                     This results in a net return of <span class="varvalue">\${netReturn} million</span> after the initial investment.
                     Additionally, the intangible benefits of your company's AI ethics and governance platform, such as positive media coverage, are valued at <span class="varvalue">\${intangibleValue} million</span>, with a discounted value of
                     <span class="varvalue">\${discountedIntangibleReturn} million</span>.
